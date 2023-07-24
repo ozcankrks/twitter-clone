@@ -5,7 +5,6 @@ export const POSTS = [
     author_img:
       "https://pbs.twimg.com/profile_images/741610857591902208/LeFxfqia_400x400.jpg",
     post_text: "lorem",
-    
     attcType: "image",
     attcSource:
       "https://pbs.twimg.com/media/F10AlFzXsAAd0JO?format=jpg&name=medium",
