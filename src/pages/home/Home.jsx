@@ -94,7 +94,7 @@ export const Home = () => {
           ))}
         </div>
       )}
-      {activeTab == 1 && <div>tuta için</div>}
+      {activeTab == 1 && <div>Takip Edilenler</div>}
     </div>
   );
 };

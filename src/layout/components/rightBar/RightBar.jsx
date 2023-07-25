@@ -20,7 +20,7 @@ export const RightBar = () => {
         />
         <input
           type="text"
-          placeholder="Tutayı Ara"
+          placeholder="Gündemden Ara"
           className="bg-[#eff3f4] w-full outline-none rounded-full pl-8 px-4 py-2"
         />
       </div>
@@ -44,12 +44,12 @@ export const RightBar = () => {
         </div>
         <SubjectCard
           subject="Gündemdekiler"
-          title="Tutaya Zam"
+          title="Tuta"
           count="23M Tweet"
         />
         <SubjectCard
           subject="Gündemdekiler"
-          title="Vurma Vurma OÇ Vurma"
+          title="Putin ve Rusya"
           count="233M Tweet"
         />
         <SubjectCard
@@ -81,14 +81,14 @@ export const RightBar = () => {
             "https://pbs.twimg.com/profile_images/1653157500986744832/wu0ArmY8_400x400.jpg"
           }
           nickname={"@rte"}
-          name={"Recep Tayyip Erdoğan"}
+          name={"rteZamYapma"}
         />
         <ProfileCard
           img={
             "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_400x400.jpg"
           }
           nickname={"@MrBeast"}
-          name={"MrTUTa"}
+          name={"MrBeast"}
         />
       
       </div>
