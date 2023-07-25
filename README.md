@@ -1,8 +1,10 @@
-# React + Vite
+# Twitter Clone [React - Vite] 
+Bu proje, React ile yapılmış basit bir Twitter clone uygulamasıdır. Uygulama Bittiğinde Kullanıcılar, tweetleri görebilir, yeni tweetler oluşturabilir ve beğenebilir.
+## Kullanım
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    yarn 
+    yarn dev
+yada
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    npm install
+    npm run dev
